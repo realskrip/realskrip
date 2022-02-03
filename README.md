@@ -1,18 +1,18 @@
 Немного о себе:
 Стек технологий и ПО в IT:
-Microsoft Visual Studio 2019, 2020(C++)
-Geany(Fortran)
-Microsoft SQL Server Management Studio 17(Transact-SQL)
-Unreal Engine 4, 5
-Fortran
-C++
-Библиотека STL(С++)
-Blender
-Git
-GitHub
-JSON
-XML
-YAML
+Microsoft Visual Studio 2019, 2020(C++);
+Geany(Fortran);
+Microsoft SQL Server Management Studio 17(Transact-SQL);
+Unreal Engine 4, 5;
+Fortran;
+C++;
+Библиотека STL(С++);
+Blender;
+Git;
+GitHub;
+JSON;
+XML;
+YAML.
 _______________________________________________________________________________
 Образование:
 Магистратура: Информационные технологии и робототехника(в процессе обучения).
@@ -20,11 +20,11 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 Моё прошлое(то, чем когда-то увлекался/интересовался/занимался и т.п.)
 Стек технологий и ПО:
-КОМПАС-3D
-Autodesk Inventor
-AutoCAD
-FeatureCAM
-Mathcad
+КОМПАС-3D;
+Autodesk Inventor;
+AutoCAD;
+FeatureCAM;
+Mathcad;
 Microsoft Office :)
 © 2022 GitHub, Inc.
 Terms
