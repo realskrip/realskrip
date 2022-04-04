@@ -1,12 +1,12 @@
 My tools:
 Microsoft Visual Studio 2019, 2022(C++)
-IntelliJ IDEA (Java | jdk(Комплект разработки на основе языка Java))
+IntelliJ IDEA (Java | Нужно установить jdk (Комплект разработки на основе языка Java))
 Geany(Fortran)
 Visual Studio Code
 Microsoft SQL Server Management Studio 17(Transact-SQL)
 Unreal Engine 4, 5
 Unity
-Fortran
+Fortran (Нужно установить gcc компилятор)
 C++
 C#
 Java
