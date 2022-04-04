@@ -1,5 +1,6 @@
 IT:
 Microsoft Visual Studio 2019, 2022(C++)
+IntelliJ IDEA (Java | jdk(Комплект разработки на основе языка Java))
 Geany(Fortran)
 Visual Studio Code
 Microsoft SQL Server Management Studio 17(Transact-SQL)
@@ -8,6 +9,7 @@ Unity
 Fortran
 C++
 C#
+Java
 Библиотека STL(С++)
 Blender
 Git
