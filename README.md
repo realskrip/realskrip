@@ -1,5 +1,6 @@
 [![codewars](https://www.codewars.com/users/M1suta/badges/large)](https://www.codewars.com/users/M1suta)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realskrip&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realskrip&layout=compact)
 
 <!--
 ### Hi there 👋
